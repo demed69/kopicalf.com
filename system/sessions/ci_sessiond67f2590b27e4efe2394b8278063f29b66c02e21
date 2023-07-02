@@ -1,0 +1,5 @@
+__ci_last_regenerate|i:1686898119;pesan|s:274:"<div class="alert alert-danger alert-dismissible fade show" role="alert">Anda belum login!
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+        </div>";__ci_vars|a:1:{s:5:"pesan";s:3:"old";}
